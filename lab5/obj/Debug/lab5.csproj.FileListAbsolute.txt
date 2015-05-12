@@ -1,0 +1,44 @@
+c:\Users\User\documents\visual studio 2013\Projects\MyComp\lab5\bin\Debug\lab5.exe.config
+c:\Users\User\documents\visual studio 2013\Projects\MyComp\lab5\bin\Debug\lab5.exe
+c:\Users\User\documents\visual studio 2013\Projects\MyComp\lab5\bin\Debug\lab5.pdb
+c:\Users\User\documents\visual studio 2013\Projects\MyComp\lab5\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+c:\Users\User\documents\visual studio 2013\Projects\MyComp\lab5\obj\Debug\lab5.Properties.Resources.resources
+c:\Users\User\documents\visual studio 2013\Projects\MyComp\lab5\obj\Debug\lab5.csproj.GenerateResource.Cache
+c:\Users\User\documents\visual studio 2013\Projects\MyComp\lab5\obj\Debug\lab5.exe
+c:\Users\User\documents\visual studio 2013\Projects\MyComp\lab5\obj\Debug\lab5.pdb
+c:\Users\User\documents\visual studio 2013\Projects\MyComp\lab5\bin\Debug\MyComp.dll
+c:\Users\User\documents\visual studio 2013\Projects\MyComp\lab5\bin\Debug\MyComp.pdb
+c:\Users\User\documents\visual studio 2013\Projects\MyComp\lab5\obj\Debug\lab5.Form1.resources
+d:\home\un\ССП\lab5\lab5\bin\Debug\lab5.exe.config
+d:\home\un\ССП\lab5\lab5\obj\Debug\lab5.exe
+d:\home\un\ССП\lab5\lab5\obj\Debug\lab5.pdb
+d:\home\un\ССП\lab5\lab5\bin\Debug\lab5.exe
+d:\home\un\ССП\lab5\lab5\bin\Debug\lab5.pdb
+d:\home\un\ССП\lab5\lab5\bin\Debug\MyComp.dll
+d:\home\un\ССП\lab5\lab5\bin\Debug\MyComp.pdb
+d:\home\un\ССП\lab5\lab5\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+d:\home\un\ССП\lab5\lab5\obj\Debug\lab5.Form1.resources
+d:\home\un\ССП\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+d:\home\un\ССП\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.Cache
+C:\Users\Dmitry\Desktop\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\Dmitry\Desktop\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\Dmitry\Desktop\lab5\lab5\obj\Debug\lab5.pdb
+C:\Users\Dmitry\Desktop\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\Dmitry\Desktop\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\Dmitry\Desktop\lab5\lab5\bin\Debug\MyComp.dll
+C:\Users\Dmitry\Desktop\lab5\lab5\bin\Debug\MyComp.pdb
+C:\Users\Dmitry\Desktop\lab5\lab5\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Desktop\lab5\lab5\obj\Debug\lab5.Form1.resources
+C:\Users\Dmitry\Desktop\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.Cache
+H:\lab5\lab5\bin\Debug\lab5.exe.config
+H:\lab5\lab5\obj\Debug\lab5.exe
+H:\lab5\lab5\obj\Debug\lab5.pdb
+H:\lab5\lab5\bin\Debug\lab5.exe
+H:\lab5\lab5\bin\Debug\lab5.pdb
+H:\lab5\lab5\bin\Debug\MyComp.dll
+H:\lab5\lab5\bin\Debug\MyComp.pdb
+H:\lab5\lab5\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+H:\lab5\lab5\obj\Debug\lab5.Form1.resources
+H:\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+H:\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.Cache

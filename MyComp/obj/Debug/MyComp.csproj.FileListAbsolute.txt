@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2013\Projects\MyComp\MyComp\bin\Debug\MyComp.dll
+c:\users\user\documents\visual studio 2013\Projects\MyComp\MyComp\bin\Debug\MyComp.pdb
+c:\users\user\documents\visual studio 2013\Projects\MyComp\MyComp\obj\Debug\MyComp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\MyComp\MyComp\obj\Debug\MyComp.dll
+c:\users\user\documents\visual studio 2013\Projects\MyComp\MyComp\obj\Debug\MyComp.pdb
+d:\home\un\ССП\lab5\MyComp\bin\Debug\MyComp.dll
+d:\home\un\ССП\lab5\MyComp\bin\Debug\MyComp.pdb
+d:\home\un\ССП\lab5\MyComp\obj\Debug\MyComp.csprojResolveAssemblyReference.cache
+d:\home\un\ССП\lab5\MyComp\obj\Debug\MyComp.dll
+d:\home\un\ССП\lab5\MyComp\obj\Debug\MyComp.pdb
+C:\Users\Dmitry\Desktop\lab5\MyComp\bin\Debug\MyComp.dll
+C:\Users\Dmitry\Desktop\lab5\MyComp\bin\Debug\MyComp.pdb
+C:\Users\Dmitry\Desktop\lab5\MyComp\obj\Debug\MyComp.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Desktop\lab5\MyComp\obj\Debug\MyComp.dll
+C:\Users\Dmitry\Desktop\lab5\MyComp\obj\Debug\MyComp.pdb
+H:\lab5\MyComp\bin\Debug\MyComp.dll
+H:\lab5\MyComp\bin\Debug\MyComp.pdb
+H:\lab5\MyComp\obj\Debug\MyComp.csprojResolveAssemblyReference.cache
+H:\lab5\MyComp\obj\Debug\MyComp.dll
+H:\lab5\MyComp\obj\Debug\MyComp.pdb
